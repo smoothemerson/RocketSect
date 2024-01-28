@@ -28,7 +28,7 @@ body {
   width: 128rem;
 
   margin: 0 auto;
-  padding: 7rem 9rem 0px 10.1rem;
+  padding-top: 7rem;
 }
 
 nav {
@@ -105,7 +105,7 @@ footer {
 
   bottom: 0;
   position: fixed;
-  width: 65%;
+  width: 80%;
   text-align: center;
 
   color: var(--color-base-white);

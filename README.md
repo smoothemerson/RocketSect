@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Rocket.sect" src="./.github/preview.png" width="100%">
+  <img alt="Rocket.sect" src="./.github/previewimg.png" width="100%">
 </p>
 
 ## 🚀 Technologies

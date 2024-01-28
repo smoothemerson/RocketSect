@@ -58,6 +58,13 @@ h1 {
   min-width: 361px;
 }
 
+<<<<<<< HEAD
+=======
+p {
+  font-size: 18px;
+}
+
+>>>>>>> 4e51c82 (feat: add project)
 span {
   color: #00bfa6;
   font-weight: bold;
@@ -76,12 +83,19 @@ section p {
 }
 
 footer {
+<<<<<<< HEAD
   font-size: 14px;
+=======
+>>>>>>> 4e51c82 (feat: add project)
   line-height: 28px;
 
   text-align: center;
 
+<<<<<<< HEAD
   margin-top: 450px;
+=======
+  margin-top: 400px;
+>>>>>>> 4e51c82 (feat: add project)
 
   color: #fff;
 }

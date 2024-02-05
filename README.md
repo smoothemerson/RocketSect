@@ -23,6 +23,4 @@ This project was developed with the following technologies:
 
 - [Access the finished project, online](https://smoothemerson.github.io/Rocket.sect/)
 
-- Project given by Rocketseat in Explorer course to practice HTML and CSS
-
-- Stage 02
+- Project given by Rocketseat in Stage 02 of the Explorer Course

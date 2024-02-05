@@ -1,4 +1,4 @@
-<h1 align="center"> Rocket.sect </h1>
+<h1 align="center"> RocketSect </h1>
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="Rocket.sect" src="./.github/previewimg.png" width="100%">
+  <img alt="RocketSect" src="./.github/previewimg.png" width="100%">
 </p>
 
 ## 🚀 Technologies
@@ -21,6 +21,6 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-- [Access the finished project, online](https://smoothemerson.github.io/Rocket.sect/)
+- [Access the finished project, online](https://smoothemerson.github.io/RocketSect/)
 
 - Project given by Rocketseat in Stage 02 of the Explorer Course
